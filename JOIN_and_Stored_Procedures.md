@@ -108,4 +108,4 @@ After CALL UPDATE_LEADERS_SCORE(610038, 51).
 ![imagem](https://github.com/romulopires08/SQL_queries/assets/105392322/841dcbe8-6861-4397-a138-8077c143a927)
 
 Tryng a wrong input like CALL UPDATE_LEADERS_SCORE(610038, 120).
-The message Error: Invalid score provided, will be return
+The message Error: Invalid score provided, will be return.
