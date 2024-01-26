@@ -96,9 +96,11 @@ BEGIN
 END@
 
 Before calls the procedure.
+
 ![imagem](https://github.com/romulopires08/SQL_queries/assets/105392322/7daaed3a-8737-497b-af32-df0e29dd7542)
 
 After CALL UPDATE_LEADERS_SCORE(610038, 51).
+
 ![imagem](https://github.com/romulopires08/SQL_queries/assets/105392322/841dcbe8-6861-4397-a138-8077c143a927)
 
 Tryng a wrong input like CALL UPDATE_LEADERS_SCORE(610038, 120).
